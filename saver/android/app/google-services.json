@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150881786608",
+    "firebase_url": "https://saver-30687.firebaseio.com",
+    "project_id": "saver-30687",
+    "storage_bucket": "saver-30687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150881786608:android:af5c61ac921596dd1a8035",
+        "android_client_info": {
+          "package_name": "com.example.saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150881786608-c74bjmog81ralr1m705obqeqd5gksstb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CueQAQP2SQIvJzvKIluwuX85ms18EFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150881786608-c74bjmog81ralr1m705obqeqd5gksstb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
